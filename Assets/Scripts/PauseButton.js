@@ -43,10 +43,10 @@ function Update ()
 		if (pauseInitiate == true)
 		{
 			//Ads wrapper
-			if (PlayerPrefs.GetInt("ads") == 0)
-			{
-		  		Appodeal.show(Appodeal.INTERSTITIAL);
-			}
+//			if (PlayerPrefs.GetInt("ads") == 0)
+//			{
+//		  		Appodeal.show(Appodeal.INTERSTITIAL);
+//			}
 			Application.LoadLevel("DoodleDonutIntro");
 		}
 		else if (pauseInitiate == false)
@@ -58,10 +58,10 @@ function Update ()
 	else if (Input.GetKeyDown(KeyCode.Escape) && PlayerMove.ended == true)
 	{
 		//Ads wrapper
-		if (PlayerPrefs.GetInt("ads") == 0)
-		{
-	  		Appodeal.show(Appodeal.INTERSTITIAL);
-		}
+//		if (PlayerPrefs.GetInt("ads") == 0)
+//		{
+//	  		Appodeal.show(Appodeal.INTERSTITIAL);
+//		}
 		Application.LoadLevel("DoodleDonutIntro");
 	}
 }

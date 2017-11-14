@@ -4,7 +4,9 @@
  * 	otherwise make available to any third party the Service or the Content. */
 
 using UnityEngine;
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
 using UnityEditor.SceneManagement;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
