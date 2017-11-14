@@ -1,8 +1,6 @@
 ﻿#pragma strict
 import SIS;
 import System;
-import AppodealAds.Unity.Api;
-import AppodealAds.Unity.Common;
 
 public var buy0:GameObject;
 public var twitterShare:GameObject;
@@ -164,21 +162,21 @@ function PlayVideo ()
 //			StartCoroutine(DeliverReward());
 //		}
 //	}
-	Appodeal.show(Appodeal.INTERSTITIAL);
-	currentAdsWatched = currentAdsWatched + 1;
-	if (currentAdsWatched >= adsWatched)
-	{
-		IAPManager.PurchaseProduct("adsreward");
-		adsWatched = adsWatched + 1;
-		PlayerPrefs.SetInt("adsWatched", adsWatched);
-		currentAdsWatched = 0;
-	}
-	watchAds.GetComponent.<Text>().text = "#2. View " + (adsWatched - currentAdsWatched)+ " sponsors while we make you coffee! (unlimited)";
-	if (freeCoffeeArray[1] == 0)
-	{
-		freeCoffeeArray[1] = 1;
-		PlayerPrefsX.SetIntArray("freecoffee", freeCoffeeArray);
-	}
+//	Appodeal.show(Appodeal.INTERSTITIAL);
+//	currentAdsWatched = currentAdsWatched + 1;
+//	if (currentAdsWatched >= adsWatched)
+//	{
+//		IAPManager.PurchaseProduct("adsreward");
+//		adsWatched = adsWatched + 1;
+//		PlayerPrefs.SetInt("adsWatched", adsWatched);
+//		currentAdsWatched = 0;
+//	}
+//	watchAds.GetComponent.<Text>().text = "#2. View " + (adsWatched - currentAdsWatched)+ " sponsors while we make you coffee! (unlimited)";
+//	if (freeCoffeeArray[1] == 0)
+//	{
+//		freeCoffeeArray[1] = 1;
+//		PlayerPrefsX.SetIntArray("freecoffee", freeCoffeeArray);
+//	}
 }
 //Delivers reward on delay
 //function DeliverReward ()

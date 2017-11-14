@@ -1,19 +1,7 @@
 ﻿#pragma strict
 
-import AppodealAds.Unity.Api;
-import AppodealAds.Unity.Common;
-
 function Start ()
 {
-	//Initialize Appodeal ads
-	var appKey:String = "b362ec424e8c49b2a57198333d25fb3fcad31c6d4a0c232a";
-	Appodeal.disableNetwork("amazon_ads");
-	Appodeal.disableNetwork("mailru");
-	Appodeal.disableNetwork("inmoby");
-	Appodeal.disableNetwork("facebook");
-	Appodeal.disableNetwork("yandex");
-	Appodeal.disableNetwork("liverail");
-	Appodeal.disableLocationPermissionCheck();
   	//Check if Startup Variables have been set
 	if (PlayerPrefs.HasKey("startedOnce") == false)
 	{
@@ -21,15 +9,15 @@ function Start ()
 		PlayerPrefs.SetInt("startedOnce", 1);
 	}
 	//Ads wrapper
-	if (PlayerPrefs.GetInt("ads") == 0) //Display ads or not
-	{
-		Appodeal.initialize(appKey, Appodeal.BANNER | Appodeal.INTERSTITIAL);
-  		Appodeal.show(Appodeal.BANNER_BOTTOM);
-	}
-	else
-	{
-		Appodeal.initialize(appKey, Appodeal.INTERSTITIAL | Appodeal.REWARDED_VIDEO); //Activates video ads even for paying users
-	}
+//	if (PlayerPrefs.GetInt("ads") == 0) //Display ads or not
+//	{
+//		Appodeal.initialize(appKey, Appodeal.BANNER | Appodeal.INTERSTITIAL);
+//  		Appodeal.show(Appodeal.BANNER_BOTTOM);
+//	}
+//	else
+//	{
+//		Appodeal.initialize(appKey, Appodeal.INTERSTITIAL | Appodeal.REWARDED_VIDEO); //Activates video ads even for paying users
+//	}
 	//Cheating detector
 	if (PlayerPrefs.GetInt("cheated") == 1)
 	{
