@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 7b8aabfbeadfafc44ba6b97715bf4adf
+timeCreated: 1456337754
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Challenge-Trophies_4
+    21300002: Challenge-Trophies_5
+    21300004: Challenge-Trophies_6
+    21300006: Challenge-Trophies_10
+    21300008: Challenge-Trophies_11
+    21300010: Challenge-Trophies_12
+    21300012: Challenge-Trophies_0
+    21300014: Challenge-Trophies_1
+    21300016: Challenge-Trophies_2
+    21300018: Challenge-Trophies_3
+    21300020: Challenge-Trophies_7
+    21300022: Challenge-Trophies_8
+    21300024: Challenge-Trophies_9
+    21300026: ChallengeTrophies_0
+    21300028: ChallengeTrophies_1
+    21300030: ChallengeTrophies_2
+    21300032: ChallengeTrophies_3
+    21300034: ChallengeTrophies_4
+    21300036: ChallengeTrophies_5
+    21300038: ChallengeTrophies_6
+    21300040: ChallengeTrophies_7
+    21300042: ChallengeTrophies_8
+    21300044: ChallengeTrophies_9
+    21300046: ChallengeTrophies_10
+    21300048: ChallengeTrophies_11
+    21300050: ChallengeTrophies_12
+    21300052: ChallengeTrophies_13
+    21300054: ChallengeTrophies_14
+    21300056: ChallengeTrophies_15
+    21300058: ChallengeTrophies_16
+    21300060: ChallengeTrophies_17
+    21300062: ChallengeTrophies_18
+    21300064: ChallengeTrophies_19
+    21300066: ChallengeTrophies_20
+    21300068: ChallengeTrophies_21
+    21300070: ChallengeTrophies_22
+    21300072: ChallengeTrophies_23
+    21300074: ChallengeTrophies_24
+    21300076: ChallengeTrophies_25
+    21300078: ChallengeTrophies_26
+    21300080: ChallengeTrophies_27
+    21300082: ChallengeTrophies_28
+    21300084: ChallengeTrophies_29
+    21300086: ChallengeTrophies_30
+    21300088: ChallengeTrophies_32
+    21300090: ChallengeTrophies_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ChallengeTrophies_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1718
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 49.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -29.5, y: -45.5}
+        - {x: -15.5, y: -49.5}
+        - {x: 20.5, y: -49.5}
+        - {x: 32.5, y: -36.5}
+        - {x: 32.5, y: 49.5}
+    - name: ChallengeTrophies_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1718
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 49.5}
+        - {x: -32.5, y: -49.5}
+        - {x: 24.5, y: -49.5}
+        - {x: 32.5, y: -23.5}
+        - {x: 32.5, y: 49.5}
+    - name: ChallengeTrophies_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1718
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 49.5}
+        - {x: -33, y: -43.5}
+        - {x: -20, y: -49.5}
+        - {x: 25, y: -49.5}
+        - {x: 30, y: -44.5}
+        - {x: 33, y: -34.5}
+        - {x: 33, y: 49.5}
+    - name: ChallengeTrophies_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1567
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 59}
+        - {x: -32.5, y: -59}
+        - {x: 32.5, y: -59}
+        - {x: 32.5, y: 59}
+    - name: ChallengeTrophies_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1567
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 59}
+        - {x: -32.5, y: 15}
+        - {x: -31.5, y: 13}
+        - {x: -28.5, y: 12}
+        - {x: -16.5, y: 12}
+        - {x: -18.5, y: 12}
+        - {x: -28.5, y: 9}
+        - {x: -32.5, y: -32}
+        - {x: -32.5, y: -59}
+        - {x: 32.5, y: -59}
+        - {x: 32.5, y: 59}
+    - name: ChallengeTrophies_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1567
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 59}
+        - {x: -33, y: 59}
+        - {x: -33, y: -59}
+        - {x: 30, y: -59}
+        - {x: 29, y: -6}
+        - {x: 33, y: 4}
+    - name: ChallengeTrophies_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1413
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 57}
+        - {x: -39, y: -44}
+        - {x: -29, y: -57}
+        - {x: 27, y: -57}
+        - {x: 39, y: -46}
+        - {x: 39, y: 57}
+    - name: ChallengeTrophies_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1413
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 57}
+        - {x: -39, y: -53}
+        - {x: -31, y: -57}
+        - {x: 31, y: -57}
+        - {x: 39, y: -49}
+        - {x: 39, y: 57}
+    - name: ChallengeTrophies_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1413
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 57}
+        - {x: -39, y: -46}
+        - {x: -30, y: -57}
+        - {x: 29, y: -57}
+        - {x: 39, y: -52}
+        - {x: 39, y: 57}
+    - name: ChallengeTrophies_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1244
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 67.5}
+        - {x: -32, y: 67.5}
+        - {x: -68, y: 43.5}
+        - {x: -68, y: -59.5}
+        - {x: -58, y: -67.5}
+        - {x: 52, y: -67.5}
+        - {x: 68, y: -35.5}
+        - {x: 68, y: 33.5}
+        - {x: 55, y: 54.5}
+    - name: ChallengeTrophies_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1244
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 67.5}
+        - {x: -56, y: 63.5}
+        - {x: -68, y: 38.5}
+        - {x: -68, y: -67.5}
+        - {x: 59, y: -67.5}
+        - {x: 68, y: -55.5}
+        - {x: 68, y: 44.5}
+        - {x: 31, y: 67.5}
+    - name: ChallengeTrophies_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1244
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 67.5}
+        - {x: -67.5, y: 43.5}
+        - {x: -67.5, y: -67.5}
+        - {x: 40.5, y: -67.5}
+        - {x: 67.5, y: -59.5}
+        - {x: 67.5, y: 67.5}
+    - name: ChallengeTrophies_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1065
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -33}
+        - {x: -25.5, y: -56}
+        - {x: -17.5, y: -69}
+        - {x: 22.5, y: -69}
+        - {x: 24.5, y: -68}
+        - {x: 24.5, y: -33}
+      - - {x: -22.5, y: 69}
+        - {x: -34.5, y: 32}
+        - {x: -34.5, y: -12}
+        - {x: -23.5, y: -32}
+        - {x: 29.5, y: -32}
+        - {x: 34.5, y: -15}
+        - {x: 34.5, y: 46}
+        - {x: 25.5, y: 69}
+    - name: ChallengeTrophies_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1065
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -36}
+        - {x: 18.5, y: -33}
+        - {x: -22.5, y: -33}
+        - {x: -26.5, y: -35}
+        - {x: -26.5, y: -69}
+        - {x: 22.5, y: -69}
+        - {x: 27.5, y: -63}
+        - {x: 27.5, y: -44}
+        - {x: 26.5, y: -42}
+      - - {x: -28.5, y: 69}
+        - {x: -34.5, y: 52}
+        - {x: -34.5, y: -20}
+        - {x: -25.5, y: -32}
+        - {x: 25.5, y: -32}
+        - {x: 34.5, y: -15}
+        - {x: 34.5, y: 52}
+        - {x: 22.5, y: 69}
+    - name: ChallengeTrophies_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1065
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -33}
+        - {x: -26.5, y: -38}
+        - {x: -26.5, y: -69}
+        - {x: 23.5, y: -69}
+        - {x: 26.5, y: -68}
+        - {x: 26.5, y: -41}
+        - {x: 17.5, y: -33}
+      - - {x: 34.5, y: 35}
+        - {x: 26.5, y: 69}
+        - {x: -23.5, y: 69}
+        - {x: -34.5, y: 21}
+        - {x: -34.5, y: -5}
+        - {x: -25.5, y: -26}
+        - {x: -23.5, y: -31}
+        - {x: -20.5, y: -32}
+        - {x: 20.5, y: -32}
+        - {x: 25.5, y: -30}
+        - {x: 34.5, y: 0}
+    - name: ChallengeTrophies_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 859
+        width: 91
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -42}
+        - {x: -26.5, y: -43}
+        - {x: -26.5, y: -73}
+        - {x: -22.5, y: -79}
+        - {x: 22.5, y: -79}
+        - {x: 26.5, y: -78}
+        - {x: 26.5, y: -44}
+        - {x: 22.5, y: -42}
+      - - {x: -33.5, y: 79}
+        - {x: -45.5, y: 25}
+        - {x: -45.5, y: -42}
+        - {x: 45.5, y: -42}
+        - {x: 45.5, y: 44}
+        - {x: 26.5, y: 79}
+    - name: ChallengeTrophies_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 859
+        width: 90
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -43}
+        - {x: -27, y: -79}
+        - {x: 24, y: -79}
+        - {x: 24, y: -49}
+        - {x: 23, y: -43}
+      - - {x: 24, y: 79}
+        - {x: -24, y: 79}
+        - {x: -45, y: 19}
+        - {x: -45, y: -42}
+        - {x: 45, y: -42}
+        - {x: 45, y: 13}
+        - {x: 44, y: 18}
+    - name: ChallengeTrophies_17
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 859
+        width: 91
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -42}
+        - {x: -35.5, y: -52}
+        - {x: -35.5, y: -67}
+        - {x: -27.5, y: -79}
+        - {x: 39.5, y: -79}
+        - {x: 39.5, y: -42}
+      - - {x: -29.5, y: 79}
+        - {x: -45.5, y: 64}
+        - {x: -45.5, y: -42}
+        - {x: 45.5, y: -42}
+        - {x: 45.5, y: 15}
+        - {x: 32.5, y: 79}
+    - name: ChallengeTrophies_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 671
+        width: 169
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -35.5}
+        - {x: -35.5, y: -37.5}
+        - {x: -35.5, y: -64.5}
+        - {x: -30.5, y: -72.5}
+        - {x: 31.5, y: -72.5}
+        - {x: 35.5, y: -66.5}
+        - {x: 35.5, y: -37.5}
+        - {x: 32.5, y: -35.5}
+      - - {x: 83.5, y: 68.5}
+        - {x: 61.5, y: 72.5}
+        - {x: -27.5, y: 72.5}
+        - {x: -84.5, y: 61.5}
+        - {x: -84.5, y: -6.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 50.5, y: -33.5}
+        - {x: 79.5, y: 6.5}
+        - {x: 84.5, y: 27.5}
+        - {x: 84.5, y: 68.5}
+    - name: ChallengeTrophies_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 671
+        width: 170
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -35.5}
+        - {x: -32, y: -35.5}
+        - {x: -40, y: -39.5}
+        - {x: -40, y: -69.5}
+        - {x: -38, y: -72.5}
+        - {x: 34, y: -72.5}
+        - {x: 39, y: -66.5}
+        - {x: 39, y: -44.5}
+        - {x: 38, y: -41.5}
+      - - {x: -85, y: 72.5}
+        - {x: -85, y: 26.5}
+        - {x: -80, y: 15.5}
+        - {x: -46, y: -33.5}
+        - {x: 27, y: -33.5}
+        - {x: 85, y: -12.5}
+        - {x: 85, y: 71.5}
+        - {x: 81, y: 72.5}
+    - name: ChallengeTrophies_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 672
+        width: 169
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -36.5}
+        - {x: -39.5, y: -40.5}
+        - {x: -39.5, y: -72.5}
+        - {x: 39.5, y: -72.5}
+        - {x: 39.5, y: -43.5}
+        - {x: 35.5, y: -36.5}
+      - - {x: -84.5, y: 72.5}
+        - {x: -84.5, y: 10.5}
+        - {x: -39.5, y: -34.5}
+        - {x: 52.5, y: -34.5}
+        - {x: 84.5, y: 18.5}
+        - {x: 84.5, y: 72.5}
+    - name: ChallengeTrophies_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 518
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 26.5}
+        - {x: -50.5, y: 20.5}
+        - {x: -50.5, y: -13.5}
+        - {x: -42.5, y: -19.5}
+        - {x: -31.5, y: -61.5}
+        - {x: 41.5, y: -61.5}
+        - {x: 50.5, y: -38.5}
+        - {x: 50.5, y: 25.5}
+        - {x: 47.5, y: 26.5}
+      - - {x: 11.5, y: 61.5}
+        - {x: -7.5, y: 61.5}
+        - {x: -17.5, y: 56.5}
+        - {x: -17.5, y: 41.5}
+        - {x: -12.5, y: 29.5}
+        - {x: 10.5, y: 29.5}
+        - {x: 14.5, y: 30.5}
+        - {x: 17.5, y: 42.5}
+        - {x: 17.5, y: 56.5}
+    - name: ChallengeTrophies_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 518
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 26.5}
+        - {x: -50.5, y: 24.5}
+        - {x: -50.5, y: -13.5}
+        - {x: -41.5, y: -18.5}
+        - {x: -29.5, y: -58.5}
+        - {x: -27.5, y: -61.5}
+        - {x: 50.5, y: -61.5}
+        - {x: 50.5, y: 18.5}
+        - {x: 44.5, y: 26.5}
+      - - {x: -7.5, y: 61.5}
+        - {x: -17.5, y: 58.5}
+        - {x: -17.5, y: 33.5}
+        - {x: -16.5, y: 29.5}
+        - {x: 13.5, y: 29.5}
+        - {x: 18.5, y: 45.5}
+        - {x: 18.5, y: 52.5}
+        - {x: 9.5, y: 61.5}
+    - name: ChallengeTrophies_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 518
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 26.5}
+        - {x: -50.5, y: 18.5}
+        - {x: -50.5, y: -57.5}
+        - {x: -34.5, y: -61.5}
+        - {x: 50.5, y: -61.5}
+        - {x: 50.5, y: 25.5}
+        - {x: 41.5, y: 26.5}
+      - - {x: -7.5, y: 61.5}
+        - {x: -18.5, y: 56.5}
+        - {x: -18.5, y: 40.5}
+        - {x: -12.5, y: 29.5}
+        - {x: 13.5, y: 29.5}
+        - {x: 17.5, y: 38.5}
+        - {x: 17.5, y: 53.5}
+        - {x: 9.5, y: 61.5}
+    - name: ChallengeTrophies_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 360
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 26.5}
+        - {x: -28, y: 26.5}
+        - {x: -51, y: 18.5}
+        - {x: -51, y: -13.5}
+        - {x: -44, y: -20.5}
+        - {x: -42, y: -48.5}
+        - {x: -31, y: -61.5}
+        - {x: 28, y: -61.5}
+        - {x: 30, y: -59.5}
+        - {x: 51, y: -27.5}
+        - {x: 51, y: 16.5}
+      - - {x: -34, y: 61.5}
+        - {x: -34, y: 42.5}
+        - {x: -29, y: 31.5}
+        - {x: -27, y: 28.5}
+        - {x: 29, y: 28.5}
+        - {x: 33, y: 29.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: 61.5}
+    - name: ChallengeTrophies_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 16.5}
+        - {x: 41.5, y: 26.5}
+        - {x: -50.5, y: 26.5}
+        - {x: -50.5, y: -22.5}
+        - {x: -37.5, y: -61.5}
+        - {x: 31.5, y: -61.5}
+        - {x: 31.5, y: -50.5}
+        - {x: 26.5, y: -44.5}
+        - {x: 50.5, y: -14.5}
+      - - {x: -28.5, y: 61.5}
+        - {x: -34.5, y: 59.5}
+        - {x: -34.5, y: 28.5}
+        - {x: 34.5, y: 28.5}
+        - {x: 34.5, y: 58.5}
+        - {x: 32.5, y: 61.5}
+    - name: ChallengeTrophies_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 360
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 26.5}
+        - {x: -50.5, y: -21.5}
+        - {x: -37.5, y: -61.5}
+        - {x: 48.5, y: -61.5}
+        - {x: 50.5, y: -39.5}
+        - {x: 50.5, y: 22.5}
+        - {x: 46.5, y: 26.5}
+      - - {x: 35.5, y: 56.5}
+        - {x: 27.5, y: 61.5}
+        - {x: -34.5, y: 61.5}
+        - {x: -34.5, y: 28.5}
+        - {x: 27.5, y: 28.5}
+        - {x: 31.5, y: 29.5}
+        - {x: 35.5, y: 40.5}
+    - name: ChallengeTrophies_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 193
+        width: 101
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 49.5}
+        - {x: -50.5, y: 47.5}
+        - {x: -50.5, y: -56.5}
+        - {x: -45.5, y: -68.5}
+        - {x: 39.5, y: -68.5}
+        - {x: 50.5, y: -49.5}
+        - {x: 50.5, y: 18.5}
+        - {x: -11.5, y: 49.5}
+      - - {x: 34.5, y: 49.5}
+        - {x: 22.5, y: 41.5}
+        - {x: 22.5, y: 29.5}
+        - {x: 23.5, y: 24.5}
+        - {x: 26.5, y: 18.5}
+        - {x: 50.5, y: 18.5}
+        - {x: 50.5, y: 46.5}
+        - {x: 48.5, y: 49.5}
+      - - {x: 6.5, y: 68.5}
+        - {x: -14.5, y: 68.5}
+        - {x: -23.5, y: 67.5}
+        - {x: -23.5, y: 25.5}
+        - {x: 13.5, y: 25.5}
+        - {x: 18.5, y: 27.5}
+        - {x: 23.5, y: 48.5}
+        - {x: 23.5, y: 57.5}
+    - name: ChallengeTrophies_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 193
+        width: 101
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 49.5}
+        - {x: 18.5, y: 39.5}
+        - {x: -10.5, y: 49.5}
+        - {x: -46.5, y: 49.5}
+        - {x: -50.5, y: 46.5}
+        - {x: -50.5, y: -43.5}
+        - {x: -35.5, y: -68.5}
+        - {x: 33.5, y: -68.5}
+        - {x: 50.5, y: -42.5}
+        - {x: 50.5, y: 42.5}
+        - {x: 46.5, y: 49.5}
+      - - {x: 11.5, y: 68.5}
+        - {x: -5.5, y: 68.5}
+        - {x: -22.5, y: 60.5}
+        - {x: -22.5, y: 43.5}
+        - {x: -15.5, y: 25.5}
+        - {x: 17.5, y: 25.5}
+        - {x: 24.5, y: 47.5}
+        - {x: 24.5, y: 57.5}
+    - name: ChallengeTrophies_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 193
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 49.5}
+        - {x: -51, y: -25.5}
+        - {x: -34, y: -67.5}
+        - {x: -31, y: -68.5}
+        - {x: 28, y: -68.5}
+        - {x: 51, y: -48.5}
+        - {x: 51, y: 49.5}
+      - - {x: 11, y: 68.5}
+        - {x: -6, y: 68.5}
+        - {x: -23, y: 60.5}
+        - {x: -23, y: 43.5}
+        - {x: -15, y: 25.5}
+        - {x: 20, y: 25.5}
+        - {x: 24, y: 36.5}
+        - {x: 24, y: 57.5}
+    - name: ChallengeTrophies_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 59}
+        - {x: -29.5, y: -59}
+        - {x: 29.5, y: -59}
+        - {x: 29.5, y: 59}
+    - name: ChallengeTrophies_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 26
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 58.5}
+        - {x: -30, y: 34.5}
+        - {x: -30, y: 6.5}
+        - {x: -23, y: -58.5}
+        - {x: 30, y: -58.5}
+        - {x: 30, y: 20.5}
+        - {x: 18, y: 58.5}
+    - name: ChallengeTrophies_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 25
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 59.5}
+        - {x: -22, y: -59.5}
+        - {x: 22, y: -59.5}
+        - {x: 22, y: 50.5}
+        - {x: 15, y: 59.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
