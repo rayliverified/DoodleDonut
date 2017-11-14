@@ -192,20 +192,20 @@ function ChallengeCheck ()
 		challengeCompleted.GetComponent(ChallengeCompleted).ChallengeCompleted(11);;
 	}
 	//Ads wrapper
-	if (PlayerPrefs.GetInt("ads") == 0)
-	{
-		var adsDisplay = PlayerPrefs.GetInt("adsDisplay");
-		//Limits ad display to 1 out of 4
-		if (adsDisplay == 4)
-		{
-			PlayerPrefs.SetInt("adsDisplay", 0);
-			Appodeal.show(Appodeal.INTERSTITIAL);
-		}
-		else
-		{
-			PlayerPrefs.SetInt("adsDisplay", adsDisplay + 1);
-		}
-	}
+//	if (PlayerPrefs.GetInt("ads") == 0)
+//	{
+//		var adsDisplay = PlayerPrefs.GetInt("adsDisplay");
+//		//Limits ad display to 1 out of 4
+//		if (adsDisplay == 4)
+//		{
+//			PlayerPrefs.SetInt("adsDisplay", 0);
+//			Appodeal.show(Appodeal.INTERSTITIAL);
+//		}
+//		else
+//		{
+//			PlayerPrefs.SetInt("adsDisplay", adsDisplay + 1);
+//		}
+//	}
 }
 
 function HighScore ()
