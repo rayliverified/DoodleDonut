@@ -1,6 +1,4 @@
 ﻿#pragma strict
-//import UnityEngine.Analytics.Analytics;
-import GameAnalyticsSDK;
 
 public var highscoreText:GameObject;
 public var totalscoreText:GameObject;
@@ -303,22 +301,22 @@ function AddWeight () {
 
 function AnalyticsCode ()
 {
-	GameAnalytics.NewDesignEvent("End:weightTotal", weightTotal);
-	GameAnalytics.NewDesignEvent("End:lowestWeight", lowestWeight);
-	GameAnalytics.NewDesignEvent("End:donutsAte", donutsAte);
-	GameAnalytics.NewDesignEvent("End:caloriesAte", caloriesAte);
-	GameAnalytics.NewDesignEvent("End:caloriesBurned", caloriesBurned);
-	GameAnalytics.NewDesignEvent("End:gamesPlayed", gamesPlayed);
-	GameAnalytics.NewDesignEvent("End:coffeesDrank", coffeesDrank);
+//	GameAnalytics.NewDesignEvent("End:weightTotal", weightTotal);
+//	GameAnalytics.NewDesignEvent("End:lowestWeight", lowestWeight);
+//	GameAnalytics.NewDesignEvent("End:donutsAte", donutsAte);
+//	GameAnalytics.NewDesignEvent("End:caloriesAte", caloriesAte);
+//	GameAnalytics.NewDesignEvent("End:caloriesBurned", caloriesBurned);
+//	GameAnalytics.NewDesignEvent("End:gamesPlayed", gamesPlayed);
+//	GameAnalytics.NewDesignEvent("End:coffeesDrank", coffeesDrank);
 
 //Unity Analytics
-	var params = new System.Collections.Generic.Dictionary.<System.String, System.Object>();
-	params.Add("weightTotal", weightTotal);
-	params.Add("lowestWeight", lowestWeight);
-	params.Add("donutsAte", donutsAte);
-	params.Add("caloriesAte", caloriesAte);
-	params.Add("caloriesBurned", caloriesBurned);
-	params.Add("gamesPlayed", gamesPlayed);
-	params.Add("coffeesDrank", coffeesDrank);
-	Analytics.Analytics.CustomEvent("PlayerStats", params);
+//	var params = new System.Collections.Generic.Dictionary.<System.String, System.Object>();
+//	params.Add("weightTotal", weightTotal);
+//	params.Add("lowestWeight", lowestWeight);
+//	params.Add("donutsAte", donutsAte);
+//	params.Add("caloriesAte", caloriesAte);
+//	params.Add("caloriesBurned", caloriesBurned);
+//	params.Add("gamesPlayed", gamesPlayed);
+//	params.Add("coffeesDrank", coffeesDrank);
+//	Analytics.Analytics.CustomEvent("PlayerStats", params);
 }

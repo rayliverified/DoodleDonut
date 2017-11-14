@@ -1,6 +1,5 @@
 ﻿#pragma strict
 import SIS;
-import GameAnalyticsSDK;
 
 public var uianimator:GameObject;
 public var player:GameObject;
@@ -15,7 +14,7 @@ function Drink ()
 		coffeesDrank = coffeesDrank + 1;
 		PlayerPrefs.SetInt("coffeesDrank", coffeesDrank);
 		//Analytics
-		GameAnalytics.NewDesignEvent("Save:drank", 1);
+//		GameAnalytics.NewDesignEvent("Save:drank", 1);
 		//Execute code here to reset level
 		PlayerPrefs.SetInt("restart", 1);
 		Application.LoadLevel("TummyYummy");
@@ -24,7 +23,7 @@ function Drink ()
 	{
 		uianimator.GetComponent(UIAnimator).MoveInCoffeeMenu();
 		//Analytics
-		GameAnalytics.NewDesignEvent("Save:noneLeft", 1);
+//		GameAnalytics.NewDesignEvent("Save:noneLeft", 1);
 	}
 }
 
@@ -33,5 +32,5 @@ function ActivateEndSequence ()
 	player = GameObject.FindGameObjectWithTag("Player");
 	player.GetComponent.<PlayerMove>().EndSequence();
 	//Analytics
-	GameAnalytics.NewDesignEvent("Save:endGame", 1);
+//	GameAnalytics.NewDesignEvent("Save:endGame", 1);
 }
