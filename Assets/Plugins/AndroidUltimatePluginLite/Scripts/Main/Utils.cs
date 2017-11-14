@@ -44,7 +44,9 @@ namespace AUP
 			}
 
 			//saving to phone storage
+			#if !UNITY_WEBPLAYER
 			System.IO.File.WriteAllBytes (screenShotPath, screenshot);
+			#endif
 		}
 	}
 }
